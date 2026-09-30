@@ -1,0 +1,83 @@
+[
+  {
+    "id": 1,
+    "nickname": "MatematikUstası",
+    "score": 95,
+    "level": 19,
+    "streak": 18,
+    "mode": "typing",
+    "date": "01.10.2026"
+  },
+  {
+    "id": 2,
+    "nickname": "RainChampion",
+    "score": 82,
+    "level": 16,
+    "streak": 14,
+    "mode": "multiple-choice",
+    "date": "01.10.2026"
+  },
+  {
+    "id": 3,
+    "nickname": "HızlıParmak",
+    "score": 68,
+    "level": 13,
+    "streak": 11,
+    "mode": "typing",
+    "date": "01.10.2026"
+  },
+  {
+    "id": 4,
+    "nickname": "FırtınaAvcısı",
+    "score": 54,
+    "level": 10,
+    "streak": 8,
+    "mode": "multiple-choice",
+    "date": "01.10.2026"
+  },
+  {
+    "id": 5,
+    "nickname": "DahiÇocuk",
+    "score": 40,
+    "level": 8,
+    "streak": 6,
+    "mode": "typing",
+    "date": "01.10.2026"
+  },
+  {
+    "id": 1790802073744,
+    "nickname": "TestPlayer",
+    "score": 75,
+    "level": 15,
+    "streak": 10,
+    "mode": "typing",
+    "date": "01.10.2026"
+  },
+  {
+    "id": 1790802421071,
+    "nickname": "merve",
+    "score": 132,
+    "level": 27,
+    "streak": 3,
+    "mode": "multiple-choice",
+    "date": "01.10.2026"
+  },
+  {
+    "id": 1790802496984,
+    "nickname": "ayşe",
+    "score": 117,
+    "level": 24,
+    "streak": 1,
+    "mode": "multiple-choice",
+    "date": "01.10.2026"
+  },
+  {
+    "id": 1790802562130,
+    "nickname": "ali",
+    "score": 0,
+    "level": 1,
+    "streak": 0,
+    "mode": "multiple-choice",
+    "date": "01.10.2026"
+  }
+]
