@@ -137,7 +137,7 @@ Tarayıcınızda **`http://localhost:5173`** adresine giderek oynamaya başlayab
 - **Backend:** Node.js, Express.js, CORS
 - **Ses & Müzik:** Web Audio API (Oscillator, BiquadFilter, BufferSource)
 - **Veri Saklama:** Node.js File System (`scores.json`), Browser `localStorage`
-- **Geliştirme & AI Asistanı:** Google Antigravity (Advanced Agentic AI Pair Programming)
+- **Geliştirme & AI Desteği:** Google Antigravity
 - **Geliştirici Araçları:** TypeScript Compiler, Concurrently, Git
 
 ---
@@ -145,7 +145,7 @@ Tarayıcınızda **`http://localhost:5173`** adresine giderek oynamaya başlayab
 ## 💡 İlham Kaynağı & Atıflar
 
 - **Oyun Konsepti:** Bu proje, **Lumosity** platformunun popüler zihinsel egzersiz oyunu olan *Raindrops (Yağmur Damlaları)* temel alınarak tasarlanmış; üzerine yeni damla türleri (Buz, Fırtına, Boss), iki farklı oyun modu (Yazma & 4 Seçenek), prosedürel Web Audio yağmur/melodi sentezleyicisi, dinamik şimşek efektleri ve Full-Stack REST API Liderlik Tablosu eklenerek kapsamlı bir şekilde geliştirilmiştir.
-- **Yapay Zeka Destekli Geliştirme:** Mimari kurgu, kodlama, optimizasyon ve hata ayıklama süreçlerinde **Google Antigravity** ile çift programlama (pair programming) yapılmıştır.
+- **Yapay Zeka Destekli Geliştirme:** Projenin mimari tasarımı, kodlama, optimizasyon ve hata ayıklama süreçlerinde **Google Antigravity** yapay zeka kodlama asistanından yardım alınmıştır.
 
 ---
 
