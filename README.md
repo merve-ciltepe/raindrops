@@ -144,7 +144,7 @@ Tarayıcınızda **`http://localhost:5173`** adresine giderek oynamaya başlayab
 ## 👩‍💻 Geliştirici
 
 - **Merve Çiltepe**
-- GitHub: [@merveexample](https://github.com/)
+- GitHub: [@merve-ciltepe](https://github.com/merve-ciltepe)
 
 ---
 
