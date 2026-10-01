@@ -1197,7 +1197,6 @@ export default function App() {
                   }}
                   style={{
                     ...styles.mcButton,
-                    ...(isCorrect ? styles.mcButtonHint : {}),
                     ...(gameOver ? { opacity: 0.4, cursor: 'not-allowed' } : {}),
                   }}
                 >
